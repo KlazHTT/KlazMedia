@@ -1,0 +1,8 @@
+## Interface: 100205
+## Title: Klaz|cff1994ffMedia|r
+## Author: Klaz
+## IconTexture: Interface\AddOns\KlazMedia\Media\KlazAddOnIcon.blp
+## Notes: Adds custom assets to the shared media library.
+## OptionalDeps: LibStub, LibSharedMedia-3.0
+
+Core\SharedMedia.lua
