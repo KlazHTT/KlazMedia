@@ -6,8 +6,8 @@ if not LSM then return end
 --------------------------------------------------------------------------------
 
 -- fonts
-LSM:Register(LSM.MediaType.FONT,        'AvantGarde',   [[Interface\AddOns\KlazMedia\Media\Fonts\AvantGarde.ttf]])
-LSM:Register(LSM.MediaType.FONT,        'Pepsi',        [[Interface\AddOns\KlazMedia\Media\Fonts\Pepsi.ttf]])
+LSM:Register(LSM.MediaType.FONT,        'AvantGarde',           [[Interface\AddOns\KlazMedia\Media\Fonts\AvantGarde.ttf]])
+LSM:Register(LSM.MediaType.FONT,        'SpaceRanger',          [[Interface\AddOns\KlazMedia\Media\Fonts\SpaceRanger.ttf]])
 
 -- status bars
 LSM:Register(LSM.MediaType.STATUSBAR,   'KlazFlat',             [[Interface\AddOns\KlazMedia\Media\StatusBars\KlazFlat]])
